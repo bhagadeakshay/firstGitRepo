@@ -1,4 +1,5 @@
 # firstGitRepo
-this is our demo about git 
+
+this is our demo about git
 <br>
-Authon: Akshay
+Authon: Akshay Bhagade
